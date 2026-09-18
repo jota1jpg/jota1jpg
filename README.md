@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=João%20|%20jota1jpg&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Python%20•%20Cibersegurança%20•%20Redes&descSize=16&descAlignY=52" width="100%" />
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:carvalho.joao.140206@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jota1jpg&style=for-the-badge&color=2c5364&label=VISITANTES" />
@@ -47,7 +47,7 @@ Gosto de entender o que acontece por baixo do capô: como os pacotes trafegam, o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,bash,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -113,10 +113,10 @@ Se você chegou até aqui, provavelmente temos algo em comum — bora conversar?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
   <img src="https://img.shields.io/badge/Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU-EMAIL@exemplo.com">
+<a href="mailto:carvalho.joao.140206@gmail.com">
   <img src="https://img.shields.io/badge/Me%20mandar%20um%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
