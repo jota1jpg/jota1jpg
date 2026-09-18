@@ -80,7 +80,7 @@ Gosto de entender o que acontece por baixo do capô: como os pacotes trafegam, o
 <div align="center">
 
 <a href="https://github.com/jota1jpg/Port-Scanner-Basic-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  
 </a>
 
 </div>
@@ -100,10 +100,6 @@ Gosto de entender o que acontece por baixo do capô: como os pacotes trafegam, o
 ## 📊 GitHub em números
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jota1jpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=2c5364" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota1jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jota1jpg&theme=tokyonight&hide_border=true&background=0d1117" />
