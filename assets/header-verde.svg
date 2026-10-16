@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="jota1jpg - Python, Cibersegurança e Redes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f2d22"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#3fb950" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#3fb950" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+  </defs>
+  <style>
+    .px  { fill:#3fb950; }
+    .bolt{ fill:#e8ffee; animation: flicker 3.2s steps(1,end) infinite; }
+    .a1  { animation: sig 2.4s ease-in-out infinite; }
+    .a2  { animation: sig 2.4s ease-in-out .3s infinite; }
+    .a3  { animation: sig 2.4s ease-in-out .6s infinite; }
+    .cur { animation: blink 1s steps(1,end) infinite; }
+    @keyframes blink  { 0%,50%{opacity:1} 50.01%,100%{opacity:0} }
+    @keyframes flicker{ 0%,86%{opacity:1} 88%{opacity:.15} 90%{opacity:1} 93%{opacity:.3} 95%,100%{opacity:1} }
+    @keyframes sig    { 0%,100%{opacity:1} 50%{opacity:.35} }
+    .mono{ font-family:'Courier New',Courier,monospace; }
+  </style>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <rect width="1200" height="240" fill="url(#scan)"/>
+
+  <!-- cantos em estilo pixel -->
+  <g fill="#3fb950" opacity="0.55">
+    <rect x="16" y="16" width="28" height="4"/><rect x="16" y="16" width="4" height="28"/>
+    <rect x="1156" y="16" width="28" height="4"/><rect x="1180" y="16" width="4" height="28"/>
+    <rect x="16" y="220" width="28" height="4"/><rect x="16" y="196" width="4" height="28"/>
+    <rect x="1156" y="220" width="28" height="4"/><rect x="1180" y="196" width="4" height="28"/>
+  </g>
+
+  <!-- ícone: wifi interceptado -->
+  <g shape-rendering="crispEdges">
+    <g class="a3">
+    <rect class="px" x="105" y="101" width="14" height="7"/>
+    <rect class="px" x="175" y="101" width="21" height="7"/>
+    <rect class="px" x="91" y="108" width="14" height="7"/>
+    <rect class="px" x="196" y="108" width="14" height="7"/>
+    <rect class="px" x="84" y="115" width="14" height="7"/>
+    <rect class="px" x="203" y="115" width="14" height="7"/>
+    <rect class="px" x="77" y="122" width="14" height="7"/>
+    <rect class="px" x="112" y="122" width="21" height="7"/>
+    <rect class="px" x="168" y="122" width="21" height="7"/>
+    <rect class="px" x="210" y="122" width="14" height="7"/>
+    </g>
+    <g class="a2">
+    <rect class="px" x="98" y="129" width="14" height="7"/>
+    <rect class="px" x="189" y="129" width="14" height="7"/>
+    <rect class="px" x="91" y="136" width="14" height="7"/>
+    <rect class="px" x="126" y="136" width="49" height="7"/>
+    <rect class="px" x="196" y="136" width="14" height="7"/>
+    </g>
+    <g class="a1">
+    <rect class="px" x="112" y="143" width="14" height="7"/>
+    <rect class="px" x="175" y="143" width="14" height="7"/>
+    <rect class="px" x="105" y="150" width="14" height="7"/>
+    <rect class="px" x="182" y="150" width="14" height="7"/>
+    </g>
+    <rect class="px" x="140" y="157" width="21" height="7"/>
+    <rect class="px" x="133" y="164" width="35" height="7"/>
+    <rect class="px" x="133" y="171" width="35" height="7"/>
+    <rect class="px" x="133" y="178" width="35" height="7"/>
+    <rect class="px" x="140" y="185" width="21" height="7"/>
+    <rect class="bolt" x="161" y="52" width="14" height="7"/>
+    <rect class="bolt" x="154" y="59" width="14" height="7"/>
+    <rect class="bolt" x="147" y="66" width="14" height="7"/>
+    <rect class="bolt" x="140" y="73" width="21" height="7"/>
+    <rect class="bolt" x="133" y="80" width="49" height="7"/>
+    <rect class="bolt" x="154" y="87" width="21" height="7"/>
+    <rect class="bolt" x="147" y="94" width="21" height="7"/>
+    <rect class="bolt" x="140" y="101" width="21" height="7"/>
+    <rect class="bolt" x="133" y="108" width="21" height="7"/>
+    <rect class="bolt" x="133" y="115" width="14" height="7"/>
+  </g>
+
+  <!-- texto -->
+  <text class="mono" x="290" y="112" font-size="62" font-weight="700" fill="#3fb950">jota1jpg<tspan class="cur" fill="#e8ffee">_</tspan></text>
+  <text class="mono" x="292" y="150" font-size="20" fill="#8b949e">João  •  Python  •  Cibersegurança  •  Redes</text>
+  <text class="mono" x="292" y="184" font-size="14" fill="#3fb950" opacity="0.75">[ sinal interceptado ]  ::  estudo, prática e ética</text>
+
+  <!-- ruído binário discreto -->
+  <g class="mono" font-size="13" fill="#3fb950" opacity="0.12">
+    <text x="900" y="60">01001010 01101111 01100001 01101111</text>
+    <text x="940" y="84">0x4A 0x6F 0xC3 0xA3 0x6F</text>
+    <text x="880" y="108">10110010 01011100 11100101</text>
+    <text x="960" y="132">22/tcp  80/tcp  443/tcp</text>
+    <text x="905" y="156">01010000 01111001 01110100</text>
+    <text x="930" y="180">0x50 0x79 0x74 0x68 0x6F 0x6E</text>
+  </g>
+</svg>
