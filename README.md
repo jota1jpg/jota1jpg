@@ -1,129 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=João%20|%20jota1jpg&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Python%20•%20Cibersegurança%20•%20Redes&descSize=16&descAlignY=52" width="100%" />
+<img src="assets/header.svg" width="100%" alt="jota1jpg - Python, Cibersegurança e Redes" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=30&lines=%24+whoami+%E2%86%92+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%24+foco+%E2%86%92+Ciberseguran%C3%A7a+e+Redes+de+Computadores;%24+status+%E2%86%92+Em+busca+do+primeiro+est%C3%A1gio+em+Tecnologia" alt="typing" />
 
 <p>
   <a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22d3ee&labelColor=0d1117&color=30363d" />
   </a>
   <a href="mailto:carvalho.joao.140206@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-0d1117?style=flat-square&logo=gmail&logoColor=22d3ee&labelColor=0d1117&color=30363d" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jota1jpg&style=for-the-badge&color=2c5364&label=VISITANTES" />
+  <img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20est%C3%A1gio-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
 </p>
 
 </div>
 
 ---
 
+## `> sobre_mim`
+
+Sou estudante do **2º período de Ciência da Computação** e desenvolvo em **Python**. Meus estudos estão direcionados para **Cibersegurança** e **Redes de Computadores**.
+
+Tenho interesse em compreender o funcionamento interno dos sistemas: o tráfego de pacotes, a exposição de portas e as causas de falhas de segurança. Os projetos publicados neste perfil partem desse interesse e têm como propósito consolidar o aprendizado por meio da prática.
+
 ```bash
-$ whoami
-> João — estudante de Ciência da Computação (2º período)
-
 $ cat objetivo.txt
-> Transformar a teoria da faculdade em prática: scripts de automação,
-> ferramentas de rede e projetos reais em cibersegurança.
-
-$ status --now
-> [ ONLINE ] Buscando oportunidades de estágio na área de Tecnologia
+Aplicar os conhecimentos acadêmicos em projetos práticos: automação com Python,
+ferramentas de rede e soluções voltadas à cibersegurança.
 ```
 
 ---
 
-## 🧠 Sobre mim
+## `> scan --competencias`
 
-Sou estudante do **2º período de Ciência da Computação**, programo em **Python** e estou direcionando meus estudos para **Cibersegurança** e **Redes de Computadores**.
+```text
+$ nmap -sV joao.local
 
-Gosto de entender o que acontece por baixo do capô: como os pacotes trafegam, onde as portas ficam abertas e por que um sistema falha. Cada projeto que publico aqui nasce dessa curiosidade — e da vontade de aprender construindo.
+PORTA     ESTADO    SERVIÇO          DETALHES
+22/tcp    aberta    python           automação, POO, manipulação de arquivos
+80/tcp    aberta    redes            TCP/IP, sockets, portas e serviços
+443/tcp   aberta    linux            terminal, Bash, administração básica
+8080/tcp  aberta    git/github       versionamento de código e portfólio
+1337/tcp  filtrada  ciberseguranca   scanning, reconhecimento, fundamentos (em desenvolvimento)
 
-- 🔭 Construindo ferramentas de rede e scripts de automação em Python
-- 🌱 Estudando TCP/IP, sockets, scanning e estruturas de dados
-- 🎯 Aberto a estágio na área de Tecnologia — principalmente Infra, Redes ou Segurança
-- 💬 Pode me chamar para falar sobre Python, Linux ou segurança ofensiva/defensiva
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark" />
-
-</div>
+Varredura concluída: 5 serviços identificados
+```
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 📚 O que estou estudando agora
-
-| Área | Tópicos | Progresso |
-|:--|:--|:--|
-| 🐍 **Python** | Automação, POO, manipulação de arquivos | 🟩🟩🟩🟩⬜ |
-| 🌐 **Redes** | TCP/IP, sockets, portas e serviços | 🟩🟩🟩⬜⬜ |
-| 🔐 **Cibersegurança** | Scanning, reconhecimento, fundamentos | 🟩🟩⬜⬜⬜ |
-| 🧮 **Fundamentos** | Estruturas de dados e lógica de programação | 🟩🟩🟩⬜⬜ |
-
----
-
-## 🚀 Projetos em Destaque
+## `> ls projetos/`
 
 <div align="center">
 
 <a href="https://github.com/jota1jpg/Port-Scanner-Basic-py">
-  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee" />
 </a>
 
 </div>
 
-> **🔎 Port-Scanner-Basic-py** — Scanner TCP desenvolvido em Python para identificar portas abertas e mapear serviços em rede. Feito do zero com `sockets`, para entender na prática como funciona o reconhecimento de hosts.
+> **🔎 Port-Scanner-Basic-py**: scanner TCP desenvolvido em Python para identificar portas abertas e mapear serviços em rede. Construído do zero com `sockets`, com o objetivo de compreender, na prática, o funcionamento do reconhecimento de hosts.
 >
 > `Python` · `Sockets` · `Threading` · `Redes`
 
 <div align="center">
 
-⚠️ *Todas as ferramentas aqui são para fins educacionais e uso em ambientes autorizados.*
+<sub>⚠️ Todas as ferramentas aqui apresentadas possuem finalidade educacional e devem ser utilizadas apenas em ambientes próprios ou devidamente autorizados.</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub em números
+## `> stats`
 
 <div align="center">
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jota1jpg&theme=tokyonight&hide_border=true&background=0d1117" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=jota1jpg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=8b949e" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota1jpg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=8b949e" />
 
 </div>
 
 ---
 
-## 🎯 Objetivo
+## `> contato`
 
-Busco minha **primeira oportunidade de estágio em Tecnologia**, onde eu possa aplicar o que já construo em Python, aprender com profissionais mais experientes e seguir evoluindo em cibersegurança e redes.
+Busco minha **primeira oportunidade de estágio em Tecnologia**, preferencialmente nas áreas de Infraestrutura, Redes ou Segurança da Informação, onde possa aplicar o que venho desenvolvendo em Python, aprender com profissionais experientes e dar continuidade à minha formação.
 
-Se você chegou até aqui, provavelmente temos algo em comum — bora conversar? 👇
+```bash
+$ ping joao
+64 bytes from joao: disponível para conversar sobre Python, Linux e segurança da informação
+```
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
-  <img src="https://img.shields.io/badge/Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:carvalho.joao.140206@gmail.com">
-  <img src="https://img.shields.io/badge/Me%20mandar%20um%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entrar%20em%20contato-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
 </a>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2a33,100:0d1117&height=60&section=footer" width="100%" />
 
 </div>
