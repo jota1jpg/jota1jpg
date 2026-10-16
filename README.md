@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="jota1jpg - Python, Cibersegurança e Redes" />
+<img src="assets/header-verde.svg" width="100%" alt="jota1jpg - Python, Cibersegurança e Redes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=30&lines=%24+whoami+%E2%86%92+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%24+foco+%E2%86%92+Ciberseguran%C3%A7a+e+Redes+de+Computadores;%24+status+%E2%86%92+Em+busca+do+primeiro+est%C3%A1gio+em+Tecnologia" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=3FB950&center=true&vCenter=true&width=620&height=30&lines=%24+whoami+%E2%86%92+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%24+foco+%E2%86%92+Ciberseguran%C3%A7a+e+Redes+de+Computadores;%24+status+%E2%86%92+Em+busca+do+primeiro+est%C3%A1gio+em+Tecnologia" alt="typing" />
 
 <p>
   <a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22d3ee&labelColor=0d1117&color=30363d" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=0d1117&color=30363d" />
   </a>
   <a href="mailto:carvalho.joao.140206@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0d1117?style=flat-square&logo=gmail&logoColor=22d3ee&labelColor=0d1117&color=30363d" />
+    <img src="https://img.shields.io/badge/E--mail-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=0d1117&color=30363d" />
   </a>
-  <img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20est%C3%A1gio-0d1117?style=flat-square&labelColor=0d1117&color=22d3ee" />
+  <img src="https://img.shields.io/badge/status-dispon%C3%ADvel%20para%20est%C3%A1gio-0d1117?style=flat-square&labelColor=0d1117&color=3fb950" />
 </p>
 
 </div>
@@ -60,7 +60,7 @@ Varredura concluída: 5 serviços identificados
 <div align="center">
 
 <a href="https://github.com/jota1jpg/Port-Scanner-Basic-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950" />
 </a>
 
 </div>
@@ -81,8 +81,8 @@ Varredura concluída: 5 serviços identificados
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=jota1jpg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=8b949e" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota1jpg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=8b949e" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=jota1jpg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota1jpg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e" />
 
 </div>
 
@@ -100,9 +100,9 @@ $ ping joao
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
-  <img src="https://img.shields.io/badge/Entrar%20em%20contato-22d3ee?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Entrar%20em%20contato-3fb950?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2a33,100:0d1117&height=60&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2d22,100:0d1117&height=60&section=footer" width="100%" />
 
 </div>
