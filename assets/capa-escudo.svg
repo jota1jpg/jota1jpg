@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="jota1jpg - Python, Cibersegurança e Redes">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0f2d22"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#3fb950" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#3fb950" stroke-width="0.5" opacity="0.06"/>
+    </pattern>
+  </defs>
+  <style>
+    .key { animation: fl 3.4s steps(1,end) infinite; }
+    .cur { animation: bl 1s steps(1,end) infinite; }
+    .mono{ font-family:'Courier New',Courier,monospace; }
+    @keyframes bl { 0%,50%{opacity:1} 50.01%,100%{opacity:0} }
+    @keyframes fl { 0%,86%{opacity:1} 88%{opacity:.15} 90%{opacity:1} 93%{opacity:.3} 95%,100%{opacity:1} }
+  </style>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <rect width="1200" height="240" fill="url(#scan)"/>
+
+  <!-- cantos -->
+  <g fill="#3fb950" opacity="0.55">
+    <rect x="16" y="16" width="28" height="4"/><rect x="16" y="16" width="4" height="28"/>
+    <rect x="1156" y="16" width="28" height="4"/><rect x="1180" y="16" width="4" height="28"/>
+    <rect x="16" y="220" width="28" height="4"/><rect x="16" y="196" width="4" height="28"/>
+    <rect x="1156" y="220" width="28" height="4"/><rect x="1180" y="196" width="4" height="28"/>
+  </g>
+
+  <!-- escudo com fechadura -->
+  <g transform="translate(76 38) scale(7)" shape-rendering="crispEdges">
+    <path d="M3 2h15v1h-15zM4 3h1v1h-1zM6 3h1v1h-1zM8 3h1v1h-1zM10 3h1v1h-1zM12 3h1v1h-1zM14 3h1v1h-1zM16 3h1v1h-1zM3 4h15v1h-15zM4 5h1v1h-1zM6 5h1v1h-1zM8 5h1v1h-1zM10 5h1v1h-1zM12 5h1v1h-1zM14 5h1v1h-1zM16 5h1v1h-1zM3 6h6v1h-6zM12 6h6v1h-6zM4 7h1v1h-1zM6 7h1v1h-1zM14 7h1v1h-1zM16 7h1v1h-1zM4 8h1v1h-1zM6 8h1v1h-1zM14 8h1v1h-1zM16 8h1v1h-1zM3 9h1v1h-1zM5 9h1v1h-1zM7 9h1v1h-1zM13 9h1v1h-1zM15 9h1v1h-1zM17 9h1v1h-1zM4 10h1v1h-1zM6 10h1v1h-1zM14 10h1v1h-1zM16 10h1v1h-1zM3 11h1v1h-1zM5 11h1v1h-1zM7 11h1v1h-1zM13 11h1v1h-1zM15 11h1v1h-1zM17 11h1v1h-1zM4 12h1v1h-1zM6 12h1v1h-1zM8 12h1v1h-1zM12 12h1v1h-1zM14 12h1v1h-1zM16 12h1v1h-1zM5 13h1v1h-1zM7 13h1v1h-1zM13 13h1v1h-1zM15 13h1v1h-1zM6 14h1v1h-1zM14 14h1v1h-1zM8 16h1v1h-1zM10 16h1v1h-1zM12 16h1v1h-1zM10 18h1v1h-1zM10 20h1v1h-1z" fill="#3fb950" opacity="0.55"/>
+    <path d="M2 0h17v1h-17zM1 1h19v1h-19zM1 2h2v1h-2zM18 2h2v1h-2zM1 3h2v1h-2zM18 3h2v1h-2zM1 4h2v1h-2zM18 4h2v1h-2zM1 5h2v1h-2zM18 5h2v1h-2zM1 6h2v1h-2zM18 6h2v1h-2zM1 7h2v1h-2zM18 7h2v1h-2zM1 8h2v1h-2zM18 8h2v1h-2zM1 9h2v1h-2zM18 9h2v1h-2zM1 10h2v1h-2zM18 10h2v1h-2zM1 11h2v1h-2zM18 11h2v1h-2zM2 12h2v1h-2zM17 12h2v1h-2zM3 13h2v1h-2zM16 13h2v1h-2zM3 14h2v1h-2zM16 14h2v1h-2zM4 15h2v1h-2zM15 15h2v1h-2zM5 16h2v1h-2zM14 16h2v1h-2zM6 17h2v1h-2zM13 17h2v1h-2zM7 18h2v1h-2zM12 18h2v1h-2zM7 19h2v1h-2zM12 19h2v1h-2zM8 20h2v1h-2zM11 20h2v1h-2zM9 21h3v1h-3zM10 22h1v1h-1z" fill="#3fb950"/>
+    <path class="key" d="M9 6h3v1h-3zM8 7h5v1h-5zM8 8h5v1h-5zM8 9h5v1h-5zM8 10h5v1h-5zM9 11h3v1h-3zM9 12h3v1h-3zM8 13h5v1h-5zM8 14h5v1h-5zM8 15h5v1h-5z" fill="#e8ffee"/>
+  </g>
+
+  <!-- texto -->
+  <text class="mono" x="290" y="112" font-size="66" font-weight="700" fill="#3fb950">jota1jpg<tspan class="cur" fill="#e8ffee">_</tspan></text>
+  <text class="mono" x="292" y="150" font-size="22" fill="#8b949e">João  •  Python  •  Cibersegurança  •  Redes</text>
+  <text class="mono" x="292" y="184" font-size="15" fill="#3fb950" opacity="0.75">[ acesso restrito ]  ::  estudo, prática e ética</text>
+
+  <!-- ruído binário -->
+  <g class="mono" font-size="13" fill="#3fb950" opacity="0.12">
+    <text x="940" y="60">01001010 01101111 01100001 01101111</text>
+    <text x="975" y="84">0x4A 0x6F 0xC3 0xA3 0x6F</text>
+    <text x="930" y="108">10110010 01011100 11100101</text>
+    <text x="1000" y="132">22/tcp  80/tcp  443/tcp</text>
+    <text x="950" y="156">01010000 01111001 01110100</text>
+    <text x="965" y="180">0x50 0x79 0x74 0x68 0x6F 0x6E</text>
+  </g>
+</svg>
