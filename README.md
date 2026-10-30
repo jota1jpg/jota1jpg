@@ -1,49 +1,125 @@
-<img src="assets/capa-escudo.svg" width="100%" alt="jota1jpg - Python, Redes e Cibersegurança" />
+# `> João_`
 
-<img src="assets/divisor.svg" width="100%" alt="" />
-
-## `> whoami`
-
-Estudante do **2º período de Ciência da Computação**. Desenvolvo em **Python** e estudo **redes** e **cibersegurança**, com interesse em entender o que acontece por baixo do capô: como os pacotes trafegam, quais portas ficam expostas e por que um sistema falha.
-
-Cada projeto publicado aqui nasce dessa curiosidade, e serve para aprender construindo.
-
-<img src="assets/divisor.svg" width="100%" alt="" />
-
-## `> ls ~/skills`
-
-```text
-~/skills
-├── python        automação · POO · arquivos
-├── redes         TCP/IP · sockets · portas e serviços
-├── linux         terminal · Bash · administração básica
-├── seguranca     scanning · reconhecimento · fundamentos
-└── git           versionamento · portfólio
+```diff
++                      .:::----+++++**-=-::
++                   :---=+++===+**#*+*#**#*+=::
++                :-=---=++*+#%%@@%@%%%%%%@%#*#++=--.
++            ..:----=+*+==-#%@@@@@@@@@@%#%%%%@#%#*+-++-
++         ..:--=--:+#*-: .+%@@@%#%%@@@@#*---+@%%@@%*=+#*-
++       .::-----=+*+:    -%@%@%+. -*%%@@#-  ::-+*%%%#==**-.
++     .:.:.:::+#*+:      -*@%%%=:-:+%%%%*-      :*#*##**=:.
++   .:::.  -+*##=.        -*##%%%#**%@%*-      :+*#*****-:..
++ .::...  .-+****+-:..     .-*#%%%%#%#+:  :::=++==+=:-==:::.
++ .:.::.  ....:==+=+++--==-::-+##%%*+====+++**+=--::::.::..
++     .    .::.::::----=+++++++++*#***+*++===:---::
++            .....::.:::::::--:::-++==::::--::..:.
++              .....::::::::...:::::::.....:.....
 ```
 
-<img src="assets/divisor.svg" width="100%" alt="" />
+<div align="center">
 
-## `> ls ~/projetos`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Python+%7C+Ciberseguran%C3%A7a+%7C+Redes;TCP%2FIP+%C2%B7+Sockets+%C2%B7+Port+Scanning" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-estudando-00ff41?style=flat-square&labelColor=0d1117" alt="status"/>
+<img src="https://img.shields.io/badge/foco-ciberseguran%C3%A7a-00ff41?style=flat-square&labelColor=0d1117" alt="foco"/>
+<img src="https://img.shields.io/github/followers/jota1jpg?style=flat-square&color=00ff41&labelColor=0d1117&label=followers" alt="followers"/>
+
+</div>
+
+<br/>
+
+## `~$ whoami`
+
+```diff
++ nome      : João
++ curso     : Ciência da Computação (2º período)
++ foco      : Cibersegurança e Redes de Computadores
++ linguagem : Python
++ sistema   : Linux
+```
+
+<br/>
+
+## `~$ cat stack.txt`
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub"/>
+</p>
+
+<br/>
+
+## `~$ ls ./estudando`
+
+```diff
++ automação com Python
++ fundamentos de cibersegurança
++ redes de computadores (TCP/IP, sockets, scanning)
++ estruturas de dados e lógica de programação
+```
+
+<br/>
+
+## `~$ ./projeto-em-destaque`
 
 <a href="https://github.com/jota1jpg/Port-Scanner-Basic-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=dark&hide_border=true&bg_color=07090a&title_color=3fb950&icon_color=3fb950&text_color=9aa4ad" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jota1jpg&repo=Port-Scanner-Basic-py&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" alt="Port-Scanner-Basic-py"/>
 </a>
 
-Scanner TCP feito do zero com `sockets`, para identificar portas abertas e mapear serviços em rede.
+Ferramenta de **TCP Port Scanner** desenvolvida em Python para análise de portas abertas e serviços em rede.
 
-<sub>⚠️ Ferramentas com finalidade educacional, para uso apenas em ambientes próprios ou autorizados.</sub>
+> Projeto de fins educacionais. Utilize apenas em redes e sistemas com autorização.
 
-<img src="assets/divisor.svg" width="100%" alt="" />
+<br/>
 
-## `> ping jota1jpg`
+## `~$ git stats`
 
-Em busca da primeira oportunidade de estágio em Tecnologia, em Infraestrutura, Redes ou Segurança da Informação.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jota1jpg&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" alt="GitHub stats" height="165"/>
+</p>
 
-<a href="https://www.linkedin.com/in/joaomarcelocd" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-07090a?style=flat-square&logo=linkedin&logoColor=3fb950&labelColor=07090a&color=30363d" />
-</a>
-<a href="mailto:carvalho.joao.140206@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-07090a?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=07090a&color=30363d" />
-</a>
+<br/>
 
-<img src="assets/divisor.svg" width="100%" alt="" />
+## `~$ echo $OBJETIVO`
+
+Aprofundar os conhecimentos em Cibersegurança e Redes de Computadores e construir experiência prática na área de Tecnologia.
+
+<!--
+## `~$ contact --list`
+Descomente e preencha com os seus links:
+<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
+-->
+
+<br/>
+
+```diff
++              1        0
++              100     010
++               00     0
++     11        00010000         10
++     000     1100100010000     11
++     1111  1000011111001010  11001
++      111100110011111011001001001
++       110011101111100000000101
++         100111001111101100001
++ 0010000010001011110011111000111000100
++ 1011010100010011001110111100001010101
++         100101011011100000010
++         110000001000101011100
++       111000100000100110000100
++      100110111010101011100100100
++      101  0100110001111011  0101
++     110       11100000        110
++     0                          1
+```
+
+<div align="center">
+
+`$ echo "aprender. testar. proteger."`
+
+</div>
