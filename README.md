@@ -62,15 +62,20 @@
 
 <br/>
 
+
 <!-- CONTRIBUTION SNAKE -->
 ## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="26"> Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/jota1jpg/jota1jpg/output/github-snake.svg"
+    width="100%" />
 </picture>
 
 </div>
