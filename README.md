@@ -58,12 +58,6 @@ $ status --now
 
 ---
 
-## `~/projetos`
-
-<div align="center">
-  <img src="./assets/projetos.svg" width="100%" />
-</div>
-
 ## `~/objetivo`
 
 Continuar desenvolvendo projetos, fortalecendo minha base em programação e adquirindo experiência prática na área de Tecnologia.
