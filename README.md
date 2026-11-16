@@ -1,6 +1,6 @@
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B09,50:123D28,100:166534&height=200&section=header&text=&fontColor=4ade80&fontSize=52&fontAlignY=38&desc=Computer%20Science%20%C2%B7%20Python%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=60&animation=fadeIn" alt="João" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B09,50:123D28,100:166534&height=200&section=header&text=&fontColor=4ade80&fontSize=52&fontAlignY=38&descAlignY=60&animation=fadeIn" alt="João" />
 
 <div align="center">
 
